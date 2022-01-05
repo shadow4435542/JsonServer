@@ -1,0 +1,23 @@
+{
+    "social_network": [{
+            "type": "github",
+            "link": "https://github.com/kasdihacene",
+            "fa_bootstrap": "fab fa-github-alt"
+        },
+        {
+            "type": "linkedin",
+            "link": "https://www.linkedin.com/in/hacene-kasdi-142515120/",
+            "fa_bootstrap": "fab fa-linkedin-in"
+        },
+        {
+            "type": "medium",
+            "link": "http://medium.com/@hacene.upmc/",
+            "fa_bootstrap": "fab fa-medium-m"
+        },
+        {
+            "type": "twitter",
+            "link": "https://twitter.com/HaceneKasdi",
+            "fa_bootstrap": "fab fa-twitter"
+        }
+    ]
+    }
